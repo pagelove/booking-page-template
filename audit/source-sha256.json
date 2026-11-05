@@ -1,5 +1,5 @@
 {
-  "utc": "2026-11-05T04:12:05.160Z",
+  "utc": "2026-11-05T13:39:27.692Z",
   "actor": "Codex",
   "repo": "pagelove/booking-page-template",
   "scope": "Candidate source closure; audit files excluded to avoid recursive receipts",
@@ -37,13 +37,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 2424,
-      "sha256": "9cabb7167d84ea91ae0c61ff161f38bee3a61b09077b58556b5b5f9e4b18d98b"
+      "bytes": 3572,
+      "sha256": "2b65741005ba0bd8f48930b341add5c5fde9d4d08b57856d236a3d7745b741ed"
     },
     {
       "path": "REVIEW.md",
-      "bytes": 1767,
-      "sha256": "60efeb81c0b1766469a4fd794eaef03f6ab957a36f5e7bf755d37589e4f5423b"
+      "bytes": 2915,
+      "sha256": "618f12cf5d78909cda9b730233a954ba5fe4ee50456da0576b27818c4d769ca8"
     },
     {
       "path": "bun.lock",
