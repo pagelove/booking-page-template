@@ -1,38 +1,38 @@
 ---
-"name": "Midnight"
+"name": "Forest"
 "colors":
-  "primary": "#dcd4ec"
-  "neutral": "#100d17"
-  "accent": "#b491ec"
-  "border": "#33283f"
+  "primary": "#354b39"
+  "neutral": "#f1f5e9"
+  "accent": "#35683e"
+  "border": "#aebeac"
 "typography":
   "heading":
     "fontFamily": "Inter"
     "fontSize": "2.75rem"
     "fontWeight": 400
     "lineHeight": 1.1
-    "letterSpacing": "-.04em"
+    "letterSpacing": "-.035em"
   "body":
     "fontFamily": "Inter"
     "fontSize": "1rem"
     "fontWeight": 400
     "lineHeight": 1.5
 "rounded":
-  "card": "8px"
-  "button": "8px"
+  "card": "20px"
+  "button": "12px"
 "spacing":
   "small": "8px"
   "medium": "16px"
-  "large": "20px"
+  "large": "28px"
 ---
 
-# Midnight
+# Forest
 
 ## Overview
 
 Build readable applications with visible structure and one clear next action per task. Apply this design's declared heading and body families, surfaces and geometry consistently. Prefer meaningful content and neutral separators over decorative panels. The values above describe the selected starting style; the complete scales and roles live in this design's exports.
 
-Start in dark mode. Use deep plum surfaces, pale lavender interaction accents, sans-serif headings and compact geometry. This design has no light mode; do not generate one by inversion. Use the bundled local fonts and product compositions. Separate page, panel and inset surfaces; keep metadata quiet but readable. Use the exported page/panel/row spacing and title scale consistently, with 44px action targets and brief 160ms interaction feedback. See docs/polish.md for the complete product contract. Available modes: dark. Initial mode: dark.
+Use clearly sage-tinted page backgrounds rather than white, evergreen primary actions and rounded utility panels. Keep headings sans-serif and the visual tone grounded. Use the bundled local fonts and product compositions. Separate page, panel and inset surfaces; keep metadata quiet but readable. Use the exported page/panel/row spacing and title scale consistently, with 44px action targets and brief 160ms interaction feedback. See docs/polish.md for the complete product contract. Available modes: light, dark. Initial mode: light.
 
 ## Colors
 
