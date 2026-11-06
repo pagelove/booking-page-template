@@ -1,0 +1,17 @@
+{
+  "name": "Studio Sessions",
+  "shortName": "Studio Sessions",
+  "description": "A sample booking request workspace. Requests are provisional until the owner confirms availability.",
+  "url": "https://kayak-draw-9549.onpagelove.com/onboarding/after/demos/design-refresh-20261106/booking-page/",
+  "lang": "en",
+  "locale": "en_US",
+  "icon": {
+    "background": "#1b3024",
+    "foreground": "#ffffff"
+  },
+  "social": {
+    "title": "Make time for a good idea.",
+    "label": "Time for a good idea"
+  },
+  "pages": []
+}

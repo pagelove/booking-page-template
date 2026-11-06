@@ -1,0 +1,21 @@
+{
+  "title": "Northline Appointments — Make time to talk.",
+  "description": "Discovery conversations, design consultations and project reviews. Requests need owner review.",
+  "siteName": "Northline Appointments",
+  "locale": "en_US",
+  "url": "https://kayak-draw-9549.onpagelove.com/onboarding/after/demos/design-refresh-20261106/booking-page/",
+  "themeColor": "#1b3024",
+  "image": {
+    "url": "https://kayak-draw-9549.onpagelove.com/onboarding/after/demos/design-refresh-20261106/booking-page/assets/social/default.png",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png",
+    "alt": "Northline Appointments — Make time to talk."
+  },
+  "icons": {
+    "svg": "https://kayak-draw-9549.onpagelove.com/onboarding/after/demos/design-refresh-20261106/booking-page/assets/identity/favicon.svg",
+    "ico": "https://kayak-draw-9549.onpagelove.com/onboarding/after/demos/design-refresh-20261106/booking-page/assets/identity/favicon.ico",
+    "apple": "https://kayak-draw-9549.onpagelove.com/onboarding/after/demos/design-refresh-20261106/booking-page/assets/identity/apple-touch-icon.png"
+  },
+  "manifest": "https://kayak-draw-9549.onpagelove.com/onboarding/after/demos/design-refresh-20261106/booking-page/assets/identity/site.webmanifest"
+}

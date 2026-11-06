@@ -1,0 +1,17 @@
+{
+  "design": "forest",
+  "mode": "dark",
+  "titleLines": [
+    "Make time to talk."
+  ],
+  "titleSize": 76,
+  "descriptionLines": [
+    "Discovery conversations, design consultations",
+    "and project reviews. Requests need owner review."
+  ],
+  "fonts": [
+    "Inter",
+    "Inter"
+  ],
+  "safeInset": 64
+}
